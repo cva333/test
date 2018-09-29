@@ -2,10 +2,31 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "image": "hello",
+      "glass":2,
+      "mug":0,
+      "tower":0
+    },
+        {
+      "id": 2,
+      "image": "hello",
+      "glass":3,
+      "mug":0,
+      "tower":3
+    },
+        {
+      "id": 3,
+      "image": "hello",
+      "glass":2,
+      "mug":4,
+      "tower":0
+    },
+        {
+      "id": 4,
+      "image": "hello",
+      "glass":4,
+      "mug":0,
+      "tower":4
+    },
+  ]
 }
